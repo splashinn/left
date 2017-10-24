@@ -1,4 +1,5 @@
 # Left
+> Much thanks to [@holman](https://github.com/holman)
 
 Left is a clean, whitespace-happy layout for [Jekyll](https://github.com/mojombo/jekyll).
 
